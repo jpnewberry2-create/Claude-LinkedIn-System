@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Brand Assets — Jamie Newberry</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --canvas:#F8FAFC; --paper:#FFFFFF; --ink:#0476D0; --dark-blue:#024A86;
+  --charcoal:#1E293B; --slate:#334155; --muted:#475569; --line:#E6EBF2;
+  --pink:#FF107A; --lilac:#5A38FD; --midblue:#82B1FF; --teal:#2CEEF0;
+  --c-blue:#12B1FF; --c-lilac:#9671F1; --c-orange:#F9AB51;
+  --display:'Fraunces',serif; --body:'Inter',sans-serif;
+}
+*{box-sizing:border-box; margin:0; padding:0;}
+body{font-family:var(--body); background:#EEF2F8; color:var(--charcoal);
+  -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;}
+.fractal{
+  background:
+    repeating-linear-gradient(90deg, rgba(255,255,255,.06) 0 1px, rgba(0,0,0,.13) 1px 2px, transparent 2px 4px),
+    linear-gradient(90deg,#b81c97 0%, #3b27c4 15%, #0d1a52 41%, #0d1a52 59%, #3b27c4 85%, #b81c97 100%),
+    radial-gradient(125% 85% at 50% 6%, #1b3ab0 0%, rgba(10,23,70,0) 58%);
+  background-color:#0c1850;
+}
+.wrap{max-width:1320px; margin:0 auto; padding:0 40px 120px;}
+
+/* hero */
+.hero{margin:0 -40px 0; padding:84px 80px 78px; color:#fff;}
+.hero .badge{display:flex; align-items:center; gap:13px; font-weight:700; font-size:18px; letter-spacing:.02em; color:rgba(255,255,255,.9);}
+.hero .badge .dot{width:16px; height:16px; border-radius:50%; background:var(--pink);}
+.hero h1{font-family:var(--display); font-weight:600; font-size:88px; line-height:.98; letter-spacing:-.02em; margin-top:30px;}
+.hero h1 .stop{color:var(--pink);}
+.hero p{font-family:var(--display); font-style:italic; font-weight:400; font-size:28px; color:rgba(255,255,255,.84); margin-top:22px; max-width:760px;}
+
+/* section */
+section{margin-top:72px;}
+.shead{display:flex; align-items:baseline; gap:18px; border-bottom:2px solid var(--line); padding-bottom:18px; margin-bottom:34px;}
+.knum{font-family:var(--display); font-weight:600; font-size:30px; color:var(--ink); min-width:46px;}
+.stitle{font-family:var(--display); font-weight:600; font-size:42px; letter-spacing:-.02em; color:var(--charcoal);}
+.ssub{margin-left:auto; font-size:18px; color:var(--muted); max-width:440px; text-align:right; line-height:1.5;}
+
+.card{background:var(--paper); border:1px solid var(--line); border-radius:22px; box-shadow:0 18px 40px rgba(14,22,48,.06);}
+.lbl{font-family:ui-monospace,Menlo,monospace; font-size:15px; color:var(--muted); letter-spacing:-.01em;}
+.cap{font-size:17px; font-weight:700; color:var(--slate); letter-spacing:.04em; text-transform:uppercase;}
+
+/* primary */
+.primary{display:flex; align-items:center; justify-content:center; padding:74px 40px; border-radius:22px;}
+.primary .wm{font-family:var(--display); font-weight:600; font-size:var(--primary-size,96px); letter-spacing:-.02em; color:var(--charcoal);}
+.primary .wm .stop{color:var(--pink);}
+.primary.dark{background:
+  repeating-linear-gradient(90deg, rgba(255,255,255,.06) 0 1px, rgba(0,0,0,.13) 1px 2px, transparent 2px 4px),
+  linear-gradient(90deg,#b81c97 0%, #3b27c4 15%, #0d1a52 41%, #0d1a52 59%, #3b27c4 85%, #b81c97 100%),
+  radial-gradient(125% 85% at 50% 6%, #1b3ab0 0%, rgba(10,23,70,0) 58%);
+  background-color:#0c1850;}
+.primary.dark .wm{color:#fff;}
+
+/* wordmark file grid */
+.wmgrid{display:grid; grid-template-columns:1fr 1fr; gap:26px;}
+.wmtile{border-radius:22px; overflow:hidden; border:1px solid var(--line);}
+.wmtile .frame{height:230px; display:flex; align-items:center; justify-content:center; padding:34px;}
+.wmtile.s .frame{justify-content:flex-start; padding-left:64px;}
+.wmtile.h .frame img{max-width:88%; max-height:120px;}
+.wmtile.s .frame img{max-height:180px; max-width:60%;}
+.wmtile .meta{display:flex; align-items:center; gap:12px; padding:16px 22px; background:var(--paper); border-top:1px solid var(--line);}
+.wmtile .meta .pill{font-size:13px; font-weight:800; letter-spacing:.08em; text-transform:uppercase; padding:5px 11px; border-radius:30px; white-space:nowrap;}
+.pill.light{background:#EAF3FC; color:var(--ink);} .pill.dark{background:#1b2746; color:#cdd9ff;}
+.wmtile .meta .lbl{margin-left:auto;}
+
+/* avatar + profile */
+.duo{display:grid; grid-template-columns:1fr 1fr; gap:26px;}
+.trio{display:grid; grid-template-columns:repeat(3,1fr); gap:26px;}
+.show{display:flex; flex-direction:column; align-items:center; gap:20px; padding:46px 30px;}
+.show .cap{margin-top:2px;}
+.av{position:relative; width:200px; height:200px; border-radius:var(--av-radius,30%); overflow:hidden; display:grid; place-items:center;
+  background-color:#0c1850; box-shadow:0 22px 50px rgba(255,16,122,.4), 0 8px 20px rgba(8,12,40,.4);
+  background-image:
+    repeating-linear-gradient(90deg, rgba(255,255,255,.05) 0 1px, rgba(0,0,0,.12) 1px 2px, transparent 2px 4px),
+    linear-gradient(142deg,#b81c97 0%, #3b27c4 36%, #0d1a52 72%, #1b3ab0 100%);}
+.av::after{content:''; position:absolute; inset:0; border-radius:inherit; box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.22), inset 0 3px 10px rgba(255,255,255,.16);}
+.av .jn{position:relative; font-family:var(--display); font-weight:600; font-size:88px; color:#fff; line-height:1;}
+.av .jn .sd{position:absolute; left:100%; bottom:0; color:var(--pink); margin-left:.04em;}
+.profimg{width:230px; height:230px; display:block;}
+
+/* glyph grid */
+.gsub{font-size:18px; font-weight:800; letter-spacing:.06em; text-transform:uppercase; color:var(--dark-blue); margin:30px 0 20px;}
+.ggrid{display:grid; grid-template-columns:repeat(6,1fr); gap:26px 24px;}
+.gcell{display:flex; flex-direction:column; align-items:center; gap:13px;}
+.tile{position:relative; width:118px; height:118px; border-radius:30%; display:grid; place-items:center; overflow:hidden;
+  background:var(--c); box-shadow:0 12px 24px color-mix(in srgb, var(--c) 42%, transparent);}
+.tile::after{content:''; position:absolute; inset:0; border-radius:inherit; background:linear-gradient(162deg, rgba(255,255,255,.24), rgba(255,255,255,0) 56%);}
+.tile[data-fg="dark"] .glyph{color:var(--charcoal);}
+.gcell .glyph{position:relative; z-index:2; width:54%; aspect-ratio:1; color:#fff;}
+.glyph svg{width:100%; height:100%; display:block;}
+.gcell span{font-size:17px; font-weight:600; color:var(--slate);}
+
+.note{margin-top:30px; font-size:17px; color:var(--muted); line-height:1.55; border-left:3px solid var(--ink); padding-left:18px;}
+.note b{color:var(--slate);}
+</style>
+</head>
+<body>
+  <div class="hero fractal">
+    <div class="wrap" style="padding-bottom:0;">
+      <div class="badge"><span class="dot"></span><span>Jamie Newberry · Brand v3.3</span></div>
+      <h1>Brand assets<span class="stop">.</span></h1>
+      <p>The finalised wordmark, the chosen avatar, your new profile pictures, and twelve fresh icons — ready to download.</p>
+    </div>
+  </div>
+
+  <div class="wrap">
+
+    <!-- 01 PRIMARY -->
+    <section>
+      <div class="shead"><span class="knum">01</span><span class="stitle">Primary wordmark</span>
+        <span class="ssub">Fraunces SemiBold with the pink full-stop. The lead mark, everywhere.</span></div>
+      <div class="card primary"><div class="wm">Jamie Newberry<span class="stop">.</span></div></div>
+      <div class="card primary dark" style="margin-top:24px;"><div class="wm">Jamie Newberry<span class="stop">.</span></div></div>
+    </section>
+
+    <!-- 02 WORDMARK FILES -->
+    <section>
+      <div class="shead"><span class="knum">02</span><span class="stitle">Wordmark files · 02 &amp; 03</span>
+        <span class="ssub">Each as a transparent PNG, in a light and a dark colourway. Pink dot stays pink on both.</span></div>
+      <div class="wmgrid">
+        <div class="wmtile h"><div class="frame" style="background:#fff;"><img src="assets/wordmark-02-on-light.png" alt="Wordmark 02 light"/></div>
+          <div class="meta"><span class="pill light">02 · Light</span><span class="lbl">wordmark-02-on-light.png</span></div></div>
+        <div class="wmtile h"><div class="frame fractal"><img src="assets/wordmark-02-on-dark.png" alt="Wordmark 02 dark"/></div>
+          <div class="meta"><span class="pill dark">02 · Dark</span><span class="lbl">wordmark-02-on-dark.png</span></div></div>
+        <div class="wmtile s"><div class="frame" style="background:#fff;"><img src="assets/wordmark-03-on-light.png" alt="Wordmark 03 light"/></div>
+          <div class="meta"><span class="pill light">03 · Light</span><span class="lbl">wordmark-03-on-light.png</span></div></div>
+        <div class="wmtile s"><div class="frame fractal"><img src="assets/wordmark-03-on-dark.png" alt="Wordmark 03 dark"/></div>
+          <div class="meta"><span class="pill dark">03 · Dark</span><span class="lbl">wordmark-03-on-dark.png</span></div></div>
+      </div>
+    </section>
+
+    <!-- 03 AVATAR -->
+    <section>
+      <div class="shead"><span class="knum">03</span><span class="stitle">Avatar · A1</span>
+        <span class="ssub">Your pick — JN centered on the fractal with the pink stop appended. Used everywhere a square is needed.</span></div>
+      <div class="duo">
+        <div class="card show"><div class="av"><span class="jn">JN<span class="sd">.</span></span></div><span class="cap">App / profile square</span></div>
+        <div class="card show fractal"><div class="av"><span class="jn">JN<span class="sd">.</span></span></div><span class="cap" style="color:rgba(255,255,255,.85);">On dark surfaces</span></div>
+      </div>
+    </section>
+
+    <!-- 04 PROFILE PICTURES -->
+    <section>
+      <div class="shead"><span class="knum">04</span><span class="stitle">LinkedIn profile picture</span>
+        <span class="ssub">Your photo on the brand background — light, the dark fractal, and a spotlight (light centre → dark edge).</span></div>
+      <div class="trio">
+        <div class="card show"><img class="profimg" src="assets/profile-light.png" alt="Profile light"/><span class="cap">Light background</span><span class="lbl">profile-light.png</span></div>
+        <div class="card show fractal"><img class="profimg" src="assets/profile-dark.png" alt="Profile dark"/><span class="cap" style="color:rgba(255,255,255,.85);">Dark fractal</span><span class="lbl" style="color:rgba(255,255,255,.6);">profile-dark.png</span></div>
+        <div class="card show" style="background:#0c1c44;"><img class="profimg" src="assets/profile-radial.png" alt="Profile spotlight"/><span class="cap" style="color:rgba(255,255,255,.85);">Dark · spotlight</span><span class="lbl" style="color:rgba(255,255,255,.6);">profile-radial.png</span></div>
+      </div>
+    </section>
+
+    <!-- 05 NEW GLYPHS -->
+    <section>
+      <div class="shead"><span class="knum">05</span><span class="stitle">New icons · 12 added</span>
+        <span class="ssub">Same Lucide-style stroke set, dropped into icons.js and the glyphs folder.</span></div>
+      <div class="gsub">Signals</div>
+      <div class="ggrid">
+        <div class="gcell"><div class="tile" style="--c:var(--c-orange);" data-fg="dark"><span class="glyph" data-icon="bad"></span></div><span>Bad</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--c-lilac);"><span class="glyph" data-icon="slow"></span></div><span>Slow</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--lilac);"><span class="glyph" data-icon="momentumslow"></span></div><span>Momentum ↓</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--pink);"><span class="glyph" data-icon="growthexp"></span></div><span>Exponential</span></div>
+      </div>
+      <div class="gsub">Faces &amp; reactions</div>
+      <div class="ggrid">
+        <div class="gcell"><div class="tile" style="--c:var(--c-blue);"><span class="glyph" data-icon="facehappy"></span></div><span>Happy</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--c-lilac);"><span class="glyph" data-icon="facelaugh"></span></div><span>Laugh</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--teal);" data-fg="dark"><span class="glyph" data-icon="faceneutral"></span></div><span>Neutral</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--lilac);"><span class="glyph" data-icon="facesad"></span></div><span>Sad</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--pink);"><span class="glyph" data-icon="faceangry"></span></div><span>Angry</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--c-blue);"><span class="glyph" data-icon="facesurprised"></span></div><span>Surprised</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--c-orange);" data-fg="dark"><span class="glyph" data-icon="facewink"></span></div><span>Wink</span></div>
+        <div class="gcell"><div class="tile" style="--c:var(--dark-blue);"><span class="glyph" data-icon="faceunamused"></span></div><span>Unamused</span></div>
+      </div>
+      <p class="note"><b>In the system:</b> every new icon is live in <span style="font-family:ui-monospace,Menlo,monospace;">icons.js</span> (<span style="font-family:ui-monospace,Menlo,monospace;">data-icon</span>) and exported as a 256px SVG in <span style="font-family:ui-monospace,Menlo,monospace;">glyphs/</span>, so they drop onto any colour squircle like the rest.</p>
+    </section>
+
+  </div>
+
+<template id="__bundler_thumbnail">
+  <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100" height="100" fill="#0c1850"/>
+    <text x="50" y="45" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#fff" text-anchor="middle">JN</text>
+    <circle cx="50" cy="64" r="4.5" fill="#FF107A"/>
+  </svg>
+</template>
+
+<script src="icons.js"></script>
+<div id="tweak-root"></div>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script type="text/babel" src="tweaks-panel.jsx"></script>
+<script type="text/babel">
+const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+  "accent": "#FF107A",
+  "avRadius": 30,
+  "primarySize": 96
+}/*EDITMODE-END*/;
+function App(){
+  const [t,setTweak]=useTweaks(TWEAK_DEFAULTS);
+  React.useEffect(()=>{
+    const r=document.documentElement.style;
+    r.setProperty('--pink', t.accent);
+    r.setProperty('--av-radius', t.avRadius+'%');
+    r.setProperty('--primary-size', t.primarySize+'px');
+  },[t.accent,t.avRadius,t.primarySize]);
+  return (
+    <TweaksPanel title="Tweaks">
+      <TweakSection label="Brand" />
+      <TweakColor label="Accent" value={t.accent}
+        options={['#FF107A','#E0117A','#FF4D6D','#C026D3']}
+        onChange={(v)=>setTweak('accent',v)} />
+      <TweakSection label="Layout" />
+      <TweakSlider label="Avatar roundness" value={t.avRadius} min={12} max={50} unit="%"
+        onChange={(v)=>setTweak('avRadius',v)} />
+      <TweakSlider label="Primary size" value={t.primarySize} min={64} max={128} unit="px"
+        onChange={(v)=>setTweak('primarySize',v)} />
+    </TweaksPanel>
+  );
+}
+ReactDOM.createRoot(document.getElementById('tweak-root')).render(<App/>);
+</script>
+</body>
+</html>
