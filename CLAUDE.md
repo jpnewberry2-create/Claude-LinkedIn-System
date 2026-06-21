@@ -37,9 +37,14 @@ After every commit: read back the file at HEAD and verify size matches the sourc
 ```
 guidelines/
     brand-guidelines-v{version}.html    The canonical guideline (HTML, may contain base64)
+    brand-guidelines-v{version}.pdf     Locked PDF render of the canonical guideline
+    project-os-v2.html                  System blueprint
     CHANGELOG.md                        Human-readable revision history
+    README.md                           Folder overview
 
 assets/
+    squircle-36-shape.svg               The definitive locked squircle vector
+    brand-assets.html                   Brand assets overview
     backgrounds/                        Baked slide backgrounds (PNG, 1080x1350)
         fractalbgV1warm1080x1350.png
         fractalbgV2pink1080x1350.png
@@ -58,15 +63,24 @@ assets/
         InterJN-Bold.ttf
         InterJN-ExtraBold.ttf
         InterJN-Regular.ttf
-        JN-Quote-BigMarks.ttf           (parked — do not load to Brand Kit)
+        (JN-Quote-BigMarks not uploaded — "Not Working" variant retired, decision #54)
     icons/
-        icons-sprite-reference.html     Visual reference for all glyphs
-        icon-backgrounds/               Background tile PNGs
-        icon-glyphs/                    Source SVG glyphs
-        white/                          Pre-coloured PNGs on white
-        charcoal/                       Pre-coloured PNGs on charcoal
-        ink/                            Pre-coloured PNGs on ink blue
-        composites/                     Glyph-on-tile composite PNGs
+        icons-sprite.svg                Master SVG sprite of all glyphs
+        icon-sprite-reference.html      Visual reference for all glyphs
+        icons-sprite-reference.md       Glyph reference (markdown)
+        icon-glyphs/                    Source SVG glyphs (78)
+        icon-backgrounds/               Background tile SVGs (9)
+        icons-chart-blue/               Glyphs coloured chart-blue (78)
+        icons-chart-lilac/              Glyphs coloured chart-lilac (78)
+        icons-orange/                   Glyphs coloured orange (78)
+        icons-pink/                     Glyphs coloured pink (78)
+        icons-teal/                     Glyphs coloured teal (78)
+        pre-coloured-glyphs/            Pre-coloured PNG exports
+            png-charcoal/               Pre-coloured PNGs on charcoal (78)
+            png-ink-blue/               Pre-coloured PNGs on ink blue (78)
+            png-lilac/                  Pre-coloured PNGs on lilac (78)
+            png-pink/                   Pre-coloured PNGs on pink (78)
+            png-white/                  Pre-coloured PNGs on white (78)
     images/
         wordmark01ondark.png
         wordmark01onlight.png
@@ -74,11 +88,14 @@ assets/
         wordmark02onlight.png
         wordmark03ondark.png
         wordmark03onlight.png
-        photofullbody.png
-        profileradial.png
+        photo-fullbody.png
+        profile-radial.png
+        profile-light.png
+        profile-dark.png
+        LinkedIn-Logo-White.png
 
 design-system/                          Tokens, type scale, primitives (Phase 2)
-specs/                                  Markdown spec and research files
+specs/                                  Markdown specs, research files, real_glyphs.py
 skills/                                 Skill files for Claude Code and Cowork
     v1-github-structuring-documenting-updating/SKILL.md
     v1-notion-sandbox-project-management/SKILL.md
