@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>network · orange</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+    <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+  </linearGradient></defs>
+  <rect width="256" height="256" rx="77" fill="#F9AB51"></rect>
+  <rect width="256" height="256" rx="77" fill="url(#g)"></rect>
+  <g transform="translate(59 59) scale(5.75)" fill="none" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></g>
+</svg>

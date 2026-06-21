@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>risk · chart-lilac</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+    <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+  </linearGradient></defs>
+  <rect width="256" height="256" rx="77" fill="#9671F1"></rect>
+  <rect width="256" height="256" rx="77" fill="url(#g)"></rect>
+  <g transform="translate(59 59) scale(5.75)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"></path><line x1="12" y1="9" x2="12" y2="13.5"></line><path d="M12 17h.01"></path></g>
+</svg>

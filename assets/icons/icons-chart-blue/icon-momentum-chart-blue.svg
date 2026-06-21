@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>momentum · Chart Blue</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+    <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+  </linearGradient></defs>
+  <rect width="256" height="256" rx="77" fill="#12B1FF"></rect>
+  <rect width="256" height="256" rx="77" fill="url(#g)"></rect>
+  <g transform="translate(59 59) scale(5.75)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path></g>
+</svg>

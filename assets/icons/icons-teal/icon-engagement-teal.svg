@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>engagement · teal</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+    <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+  </linearGradient></defs>
+  <rect width="256" height="256" rx="77" fill="#2CEEF0"></rect>
+  <rect width="256" height="256" rx="77" fill="url(#g)"></rect>
+  <g transform="translate(59 59) scale(5.75)" fill="none" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"></path></g>
+</svg>

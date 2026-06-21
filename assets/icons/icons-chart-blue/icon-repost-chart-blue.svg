@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>repost · Chart Blue</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+    <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+  </linearGradient></defs>
+  <rect width="256" height="256" rx="77" fill="#12B1FF"></rect>
+  <rect width="256" height="256" rx="77" fill="url(#g)"></rect>
+  <g transform="translate(59 59) scale(5.75)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m17 2 4 4-4 4"></path><path d="M3 11v-1a4 4 0 0 1 4-4h14"></path><path d="m7 22-4-4 4-4"></path><path d="M21 13v1a4 4 0 0 1-4 4H3"></path></g>
+</svg>

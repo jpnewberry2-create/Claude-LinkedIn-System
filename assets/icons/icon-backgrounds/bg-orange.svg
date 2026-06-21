@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>Orange #F9AB51</title>
+  <defs>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#F9AB51"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss)"></rect>
+</svg>

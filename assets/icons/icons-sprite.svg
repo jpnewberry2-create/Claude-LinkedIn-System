@@ -1,0 +1,326 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
+  <symbol id="glyph-ai" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9.94 15.5A2 2 0 0 0 8.5 14.06l-6.14-1.58a.5.5 0 0 1 0-.96L8.5 9.94A2 2 0 0 0 9.94 8.5l1.58-6.14a.5.5 0 0 1 .96 0L14.06 8.5A2 2 0 0 0 15.5 9.94l6.14 1.58a.5.5 0 0 1 0 .96L15.5 14.06a2 2 0 0 0-1.44 1.44l-1.58 6.14a.5.5 0 0 1-.96 0z"></path><path d="M20 3v4"></path><path d="M22 5h-4"></path><path d="M4 17v2"></path><path d="M5 18H3"></path>
+  </symbol>
+  <symbol id="glyph-arrowdown" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 5v14"></path><path d="m19 12-7 7-7-7"></path>
+  </symbol>
+  <symbol id="glyph-arrowleft" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m12 19-7-7 7-7"></path><path d="M19 12H5"></path>
+  </symbol>
+  <symbol id="glyph-arrowright" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path>
+  </symbol>
+  <symbol id="glyph-arrowup" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m5 12 7-7 7 7"></path><path d="M12 19V5"></path>
+  </symbol>
+  <symbol id="glyph-audience" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2.06 12.35a1 1 0 0 1 0-.7 10.75 10.75 0 0 1 19.88 0 1 1 0 0 1 0 .7 10.75 10.75 0 0 1-19.88 0"></path><circle cx="12" cy="12" r="3"></circle>
+  </symbol>
+  <symbol id="glyph-bad" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 14V2"></path><path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22a3.13 3.13 0 0 1-3-3.88Z"></path>
+  </symbol>
+  <symbol id="glyph-career" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path><rect width="20" height="14" x="2" y="6" rx="2"></rect>
+  </symbol>
+  <symbol id="glyph-code" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline>
+  </symbol>
+  <symbol id="glyph-comment" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+  </symbol>
+  <symbol id="glyph-community" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+  </symbol>
+  <symbol id="glyph-conversation" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path>
+  </symbol>
+  <symbol id="glyph-data" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="3" y1="3" x2="3" y2="21"></line><line x1="3" y1="21" x2="21" y2="21"></line><rect x="6.5" y="13" width="2.8" height="5" rx="1"></rect><rect x="10.8" y="9" width="2.8" height="9" rx="1"></rect><rect x="15.1" y="6" width="2.8" height="12" rx="1"></rect>
+  </symbol>
+  <symbol id="glyph-engagement" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"></path>
+  </symbol>
+  <symbol id="glyph-faceangry" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><path d="M16 16s-1.5-2-4-2-4 2-4 2"></path><path d="M7.5 8 10 9.2"></path><path d="m16.5 8-2.5 1.2"></path><line x1="9" y1="11.6" x2="9.01" y2="11.6"></line><line x1="15" y1="11.6" x2="15.01" y2="11.6"></line>
+  </symbol>
+  <symbol id="glyph-facehappy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><path d="M8 14s1.5 2 4 2 4-2 4-2"></path><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>
+  </symbol>
+  <symbol id="glyph-facelaugh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><path d="M18 13a6 6 0 0 1-6 5 6 6 0 0 1-6-5h12Z"></path><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>
+  </symbol>
+  <symbol id="glyph-faceneutral" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><line x1="8" y1="15" x2="16" y2="15"></line><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>
+  </symbol>
+  <symbol id="glyph-facesad" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><path d="M16 16s-1.5-2-4-2-4 2-4 2"></path><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>
+  </symbol>
+  <symbol id="glyph-facesurprised" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="15" r="2"></circle><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>
+  </symbol>
+  <symbol id="glyph-faceunamused" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><line x1="8.5" y1="15.5" x2="15.5" y2="15.5"></line><path d="M8 10h2"></path><path d="M14 10h2"></path>
+  </symbol>
+  <symbol id="glyph-facewink" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><path d="M8 14s1.5 2 4 2 4-2 4-2"></path><path d="M8 10s.8-1 2-1 2 1 2 1"></path><line x1="15" y1="9" x2="15.01" y2="9"></line>
+  </symbol>
+  <symbol id="glyph-growth" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"></polyline><polyline points="16 7 22 7 22 13"></polyline>
+  </symbol>
+  <symbol id="glyph-growthexp" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 20C9 20 14 17 19 4"></path><polyline points="13 5 19 4 20 10.5"></polyline>
+  </symbol>
+  <symbol id="glyph-help" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><path d="m4.93 4.93 4.24 4.24"></path><path d="m14.83 9.17 4.24-4.24"></path><path d="m14.83 14.83 4.24 4.24"></path><path d="m9.17 14.83-4.24 4.24"></path>
+  </symbol>
+  <symbol id="glyph-idea" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path>
+  </symbol>
+  <symbol id="glyph-insight" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+  </symbol>
+  <symbol id="glyph-learning" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 7v14"></path><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"></path>
+  </symbol>
+  <symbol id="glyph-like" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 10v12"></path><path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2a3.13 3.13 0 0 1 3 3.88Z"></path>
+  </symbol>
+  <symbol id="glyph-make" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
+  </symbol>
+  <symbol id="glyph-milestone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path><line x1="4" y1="22" x2="4" y2="15"></line>
+  </symbol>
+  <symbol id="glyph-momentum" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path>
+  </symbol>
+  <symbol id="glyph-momentumslow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6.5" y="5" width="11" height="15" rx="2.2"></rect><path d="M9.5 5V3.4a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1V5"></path><path d="M12 8.8v4.4"></path><path d="M12 16.2h.01"></path>
+  </symbol>
+  <symbol id="glyph-network" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+  </symbol>
+  <symbol id="glyph-newsletter" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="20" height="16" x="2" y="4" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
+  </symbol>
+  <symbol id="glyph-product" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"></path><polyline points="3.3 7 12 12 20.7 7"></polyline><line x1="12" y1="22" x2="12" y2="12"></line>
+  </symbol>
+  <symbol id="glyph-profile" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="18" height="18" x="3" y="4" rx="2"></rect><circle cx="9" cy="10" r="2"></circle><path d="M14 9h3"></path><path d="M14 13h3"></path><path d="M6.5 17a3 3 0 0 1 5 0"></path>
+  </symbol>
+  <symbol id="glyph-question" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><path d="M12 17h.01"></path>
+  </symbol>
+  <symbol id="glyph-reach" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path>
+  </symbol>
+  <symbol id="glyph-revenue" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 7c0-5.33-8-5.33-8 0"></path><path d="M10 7v14"></path><path d="M6 21h12"></path><path d="M6 13h10"></path>
+  </symbol>
+  <symbol id="glyph-risk" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"></path><line x1="12" y1="9" x2="12" y2="13.5"></line><path d="M12 17h.01"></path>
+  </symbol>
+  <symbol id="glyph-rocket" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"></path><path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"></path><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"></path><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"></path>
+  </symbol>
+  <symbol id="glyph-share" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" y1="2" x2="12" y2="15"></line>
+  </symbol>
+  <symbol id="glyph-slow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 13a6 6 0 1 0 12 0 4 4 0 1 0-8 0 2 2 0 0 0 4 0"></path><circle cx="10" cy="13" r="8"></circle><path d="M2 21h12c4.4 0 8-3.6 8-8V7a2 2 0 1 0-4 0v6"></path><path d="M18 3 19.1 5.2"></path><path d="M22 3 20.9 5.2"></path>
+  </symbol>
+  <symbol id="glyph-strategy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle>
+  </symbol>
+  <symbol id="glyph-swipe1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m6 17 5-5-5-5"></path><path d="m13 17 5-5-5-5"></path>
+  </symbol>
+  <symbol id="glyph-swipe2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><path d="M8 12h8"></path><path d="m12 8 4 4-4 4"></path>
+  </symbol>
+  <symbol id="glyph-swipe3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 12H8"></path><path d="m14 6 6 6-6 6"></path><path d="M6 9H3"></path><path d="M6 15H3"></path><path d="M5 12H2"></path>
+  </symbol>
+  <symbol id="glyph-trust" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="m9 12 2 2 4-4"></path>
+  </symbol>
+  <symbol id="glyph-video" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m22 8-6 4 6 4V8Z"></path><rect width="14" height="12" x="2" y="6" rx="2"></rect>
+  </symbol>
+  <symbol id="glyph-win" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M4 22h16"></path><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path>
+  </symbol>
+    <symbol id="glyph-ask-question" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 11.5V6a1.5 1.5 0 0 1 3 0v4.5"></path><path d="M10 10V4.5a1.5 1.5 0 0 1 3 0V10"></path><path d="M13 10.5V6a1.5 1.5 0 0 1 3 0v6"></path><path d="M16 12V8.5a1.5 1.5 0 0 1 3 0V14a6 6 0 0 1-6 6h-2a6 6 0 0 1-4.2-1.7l-3.6-3.6a1.6 1.6 0 0 1 2.3-2.3L7 14.5"></path>
+  </symbol>
+  <symbol id="glyph-calendar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path><path d="M8 14h.01"></path><path d="M12 14h.01"></path><path d="M16 14h.01"></path><path d="M8 18h.01"></path><path d="M12 18h.01"></path><path d="M16 18h.01"></path>
+  </symbol>
+  <symbol id="glyph-delay" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path><path d="M12 7v5l4 2"></path>
+  </symbol>
+  <symbol id="glyph-demo" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="20" height="14" x="2" y="3" rx="2"></rect><path d="M10 7.5v6l5-3z"></path><path d="M12 17v4"></path><path d="M8 21h8"></path>
+  </symbol>
+  <symbol id="glyph-download" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line>
+  </symbol>
+  <symbol id="glyph-follow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M19 8v6"></path><path d="M22 11h-6"></path>
+  </symbol>
+  <symbol id="glyph-link" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+  </symbol>
+  <symbol id="glyph-new" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"></path><path d="M7.5 7.5h.01"></path>
+  </symbol>
+  <symbol id="glyph-no-substance" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 7.5h18"></path><path d="M13.5 5.2h.01"></path><rect x="15.5" y="4.3" width="3.5" height="1.8" rx=".9"></rect><rect x="6" y="9" width="12" height="5" rx="2"></rect><path d="M9 11.5h6"></path><rect x="6" y="15" width="12" height="5"></rect><path d="M6 15 18 20"></path><path d="M18 15 6 20"></path>
+  </symbol>
+  <symbol id="glyph-prediction" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="9" r="7"></circle><path d="M8 15.5 6 21h12l-2-5.5"></path><path d="M5 21h14"></path><path d="M9.2 6.6A3.5 3.5 0 0 1 11 5.2"></path>
+  </symbol>
+  <symbol id="glyph-puppet" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6.5 3.5 17.5 8"></path><path d="M17.5 3.5 6.5 8"></path><path d="M8 7.2V11.5"></path><path d="M16 7.2V11.5"></path><circle cx="12" cy="11.5" r="2.4"></circle><path d="M8 11.5 10 13.5"></path><path d="M16 11.5 14 13.5"></path><path d="M9.4 21c0-4.2 1.1-7.2 2.6-7.2s2.6 3 2.6 7.2z"></path><path d="M9.2 21h5.6"></path>
+  </symbol>
+  <symbol id="glyph-repost" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m17 2 4 4-4 4"></path><path d="M3 11v-1a4 4 0 0 1 4-4h14"></path><path d="m7 22-4-4 4-4"></path><path d="M21 13v1a4 4 0 0 1-4 4H3"></path>
+  </symbol>
+  <symbol id="glyph-save" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"></path>
+  </symbol>
+  <symbol id="glyph-send" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"></path><path d="m21.854 2.147-10.94 10.939"></path>
+  </symbol>
+  <symbol id="glyph-shush" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3.5 8.2C7 3.5 17 3.5 20.5 8.2 17 12.9 7 12.9 3.5 8.2z"></path><path d="M6.7 8.1h2.6"></path><path d="M14.7 8.1h2.6"></path><path d="M10.4 14.5V8.5a1.6 1.6 0 0 1 3.2 0V14"></path><path d="M13.6 13.5a1.5 1.5 0 0 1 3 0v3a4.5 4.5 0 0 1-4.5 4.5 4.3 4.3 0 0 1-3.05-1.26L7.2 18.3a1.5 1.5 0 0 1 2.12-2.12l1.08 1.08"></path><path d="M13.6 15.6h2.5"></path><path d="M13.3 17.9h2.8"></path>
+  </symbol>
+  <symbol id="glyph-suited-man" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="12" cy="6" rx="3.4" ry="4"></ellipse><path d="M4 21v-1c0-3.6 2.4-6 5.4-6.5"></path><path d="M20 21v-1c0-3.6-2.4-6-5.4-6.5"></path><path d="M9.3 12.8 12 15.2 14.7 12.8"></path><path d="M12 15.2 10.9 16.5 11.5 17.7 11 21 12 21.9 13 21 12.5 17.7 13.1 16.5z"></path><path d="M15.8 17.2h2.2"></path>
+  </symbol>
+  <symbol id="glyph-template" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="18" height="7" x="3" y="3" rx="1"></rect><rect width="9" height="7" x="3" y="14" rx="1"></rect><rect width="5" height="7" x="16" y="14" rx="1"></rect>
+  </symbol>
+  <symbol id="glyph-tired" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="10.5" cy="13" r="8.5"></circle><path d="M6.5 11.5h2.5"></path><path d="M12 11.5h2.5"></path><path d="M8.5 16.5c1 .8 3 .8 4 0"></path><path d="M16.5 3h4l-4 5h4"></path>
+  </symbol>
+  <symbol id="glyph-vote" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m9 12 2 2 4-4"></path><path d="M5 7c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v12H5V7Z"></path><path d="M22 19H2"></path>
+  </symbol>
+  <symbol id="glyph-write-comment" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 14v1a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h9"></path><path d="M18.4 2.6a1.5 1.5 0 0 1 2.1 2.1l-5.1 5.1-2.8.7.7-2.8z"></path>
+  </symbol>
+  <symbol id="glyph-board-meeting" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6" y="9" width="12" height="6" rx="3"></rect><circle cx="3.5" cy="12" r="1.5"></circle><circle cx="20.5" cy="12" r="1.5"></circle><circle cx="9" cy="5.5" r="1.5"></circle><circle cx="15" cy="5.5" r="1.5"></circle><circle cx="9" cy="18.5" r="1.5"></circle><circle cx="15" cy="18.5" r="1.5"></circle>
+  </symbol>
+  <symbol id="glyph-chess" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="5.5" r="2.5"></circle><path d="M10 8.5 9.5 11h5L14 8.5"></path><path d="M9 11h6"></path><path d="M9 21c0-5 1-10 3-10s3 5 3 10"></path><path d="M7 21h10"></path>
+  </symbol>
+  <symbol id="glyph-graduate" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"></path><path d="M22 10v6"></path><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"></path>
+  </symbol>
+  <symbol id="glyph-learn" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="5.5" r="3"></circle><path d="M7 12.2c1.4-1.4 3.2-2.2 5-2.2s3.6.8 5 2.2"></path><path d="M3 14.5c3-.8 6.2-.5 9 1.3 2.8-1.8 6-2.1 9-1.3v6.8c-3-.8-6.2-.5-9 1.3-2.8-1.8-6-2.1-9-1.3z"></path><path d="M12 15.8v6.8"></path>
+  </symbol>
+  <symbol id="glyph-loud-speaker" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m3 11 18-5v12L3 14z"></path><path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"></path>
+  </symbol>
+  <symbol id="glyph-present" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="20" height="5" x="2" y="7" rx="1"></rect><path d="M20 12v8a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-8"></path><path d="M12 22V7"></path><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"></path><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"></path>
+  </symbol>
+  <symbol id="glyph-speech" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="10.5" y="2" width="11.5" height="11" rx="1"></rect><circle cx="6" cy="8.5" r="2.6"></circle><path d="M2.5 21v-6.5a3.5 3.5 0 0 1 7 0V21"></path><path d="M9 15l3 3 4.5-5.5"></path>
+  </symbol>
+<symbol id="bg-charcoal" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-charcoal" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#1E293B"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-charcoal)"></rect>
+  </symbol>
+  <symbol id="bg-chart-blue" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-chart-blue" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#12B1FF"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-chart-blue)"></rect>
+  </symbol>
+  <symbol id="bg-chart-lilac" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-chart-lilac" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#9671F1"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-chart-lilac)"></rect>
+  </symbol>
+  <symbol id="bg-dark-blue" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-dark-blue" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#024A86"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-dark-blue)"></rect>
+  </symbol>
+  <symbol id="bg-ink-blue" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-ink-blue" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#0476D0"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-ink-blue)"></rect>
+  </symbol>
+  <symbol id="bg-lilac" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-lilac" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#5A38FD"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-lilac)"></rect>
+  </symbol>
+  <symbol id="bg-orange" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-orange" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#F9AB51"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-orange)"></rect>
+  </symbol>
+  <symbol id="bg-pink" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-pink" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#FF107A"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-pink)"></rect>
+  </symbol>
+  <symbol id="bg-teal" viewBox="0 0 256 256">
+    <defs>
+    <linearGradient id="gloss-teal" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.24"></stop>
+      <stop offset="0.56" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="77" ry="77" fill="#2CEEF0"></rect>
+  <rect width="256" height="256" rx="77" ry="77" fill="url(#gloss-teal)"></rect>
+  </symbol>
+</svg>
