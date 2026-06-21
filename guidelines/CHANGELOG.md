@@ -19,3 +19,19 @@ Visual identity at v4.0, building on the locked v3.5 system:
 - Carousel system locked at V7.
 
 Repository structured and brand materials uploaded. Design system (in `/design-system/`) to be derived by Claude Design in a following phase.
+
+---
+
+## v4.0 binary layer — 21/06/2026
+
+Binary assets uploaded via Claude Code:
+- 3 guideline files (HTML, PDF, project-os-v2 blueprint)
+- 9 background/composite PNGs
+- 7 JN font files (FrauncesJN and InterJN families)
+- 6 wordmark PNGs
+- 4 Jamie image PNGs (photo-fullbody, profile-radial, profile-light, profile-dark)
+- Full icon set (icons-sprite.svg, reference HTML/MD, real_glyphs.py, 8 colour subfolders)
+- Squircle vector (squircle-36-shape.svg — the definitive locked shape)
+- Brand Assets overview HTML, LinkedIn logo PNG
+
+All files verified by read-back. Repo complete.
